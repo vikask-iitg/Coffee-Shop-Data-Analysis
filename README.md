@@ -1,2 +1,2 @@
 # Coffee-Shop-Sales-Data-Analysis
-![Coffee Shop Sales Analysis](https://github.com/user-attachments/assets/7f5de8f1-0045-4cfe-bdbb-60da7cb5dcb1)
+![Coffee Shop Sales Analysis](https://github.com/user-attachments/assets/662e73dc-6803-462e-875d-ac4fbcbebb3d)
